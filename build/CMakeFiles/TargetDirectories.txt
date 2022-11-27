@@ -1,0 +1,3 @@
+/home/zsl/Downloads/2/build/CMakeFiles/resize.dir
+/home/zsl/Downloads/2/build/CMakeFiles/edit_cache.dir
+/home/zsl/Downloads/2/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/zsl/Downloads/2/build",
+  "command": "/usr/bin/g++    -std=c++11 -g -O3 -fopenmp -o CMakeFiles/resize.dir/main.cpp.o -c /home/zsl/Downloads/2/main.cpp",
+  "file": "/home/zsl/Downloads/2/main.cpp"
+}
+]

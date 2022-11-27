@@ -1,0 +1,1 @@
+/usr/bin/g++  -std=c++11 -g -rdynamic CMakeFiles/resize.dir/main.cpp.o -o resize  -lgomp -Wl,-Bstatic -lpthread -Wl,-Bdynamic 
